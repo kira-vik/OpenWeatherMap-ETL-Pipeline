@@ -29,7 +29,7 @@
 
 ## About the Project
 
-![etl_weather_pipeline](https://github.com/kira-vik/weather-etl-postgres/assets/35596661/weather-etl-diagram.png)
+![OpenWeatherMap ETL Pipeline.png](https://github.com/kira-vik/OpenWeatherMap-ETL-Pipeline/blob/main/OpenWeatherMap%20ETL%20Pipeline.png)
 
 The **OpenWeatherMap ETL Pipeline** is a Python-based data engineering project that automates the collection, transformation, and storage of real-time weather data into a PostgreSQL database.
 
