@@ -48,3 +48,5 @@ if __name__ == "__main__":
     logger.info("Starting Weather ETL process...")
     etl_process()
     logger.info("ETL process completed")
+
+    # TODO: Work on logging improvements - more indepth logs for each step

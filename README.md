@@ -48,7 +48,6 @@ It’s a step beyond the [Weather App](https://github.com/kira-vik/weather-app-a
 
 - Fetches live weather data for multiple cities using OpenWeatherMap’s API
 - Uses a **two-table schema** (cities and weather_data) with relational mapping - _Check <a href="#database-setup">Database Setup</a>_
-- Prevents duplicate city entries with `ON CONFLICT` handling
 - Loads new records with timestamps without overwriting old data
 - Uses **SQLAlchemy** for clean and efficient PostgreSQL interaction
 - Built-in logging and error handling
