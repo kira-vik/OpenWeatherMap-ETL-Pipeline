@@ -21,3 +21,5 @@ def setup_logger():
 
 
 # TODO: Create directory for logs and update code to use that directory
+
+# TODO: Add more detailed logging (e.g., start and end of each major function, parameters passed, etc.)
